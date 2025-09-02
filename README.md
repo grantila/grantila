@@ -4,4 +4,5 @@ Not much to see here, except what I do openly. Currently working on Backstage �
 
 [![Gustaf Räntilä profile views](https://u8views.com/api/v1/github/profiles/5362579/views/day-week-month-total-count.svg)](https://u8views.com/github/grantila)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grantila)
 
